@@ -15,15 +15,19 @@ public static class fileReader
 
             routes.Add(route);
         }
+        return routes;
+    }
 
+    public static void PrintRouteList(List<Route> routes)
+    {
         foreach (Route route in routes)
         {
-            Console.WriteLine("First city:" + route.FirstCity 
-            + " Second City: " + route.SecondCity 
-            + " Distance: " + route.Distance 
+            Console.WriteLine("-------------------------------------------------------------------------------");
+            Console.WriteLine("First city:" + route.FirstCity
+            + " Second City: " + route.SecondCity
+            + " Distance: " + route.Distance
             + " Price: " + route.Price);
+            Console.WriteLine("-------------------------------------------------------------------------------");
         }
-
-        return new List<Route>();
     }
 }

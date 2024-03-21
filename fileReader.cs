@@ -36,13 +36,25 @@ public static class fileReader
         List<string> cities = new List<string>();
         foreach (string line in File.ReadLines(fileName))
         {
-            if(line != "1400")
+            if (line != "1400")
             {
                 string city = line;
                 cities.Add(city);
             }
         }
 
-        return new List<string>();
+        return cities;
+    }
+
+    public static void WriteData(List<Route> routes)
+    {
+        string data = "";
+
+        foreach (Route route in routes)
+        {
+            data += route.FirstCity + ";" + route.SecondCity + ";" + route.Distance + ";" + route.Price + "\n";
+        }
+
+        File.WriteAllText("result.txt", data);
     }
 }

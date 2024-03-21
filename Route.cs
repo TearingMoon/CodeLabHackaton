@@ -1,4 +1,4 @@
-class Route
+public class Route
 {
     public string FirstCity { get; set; }
     public string SecondCity { get; set; }

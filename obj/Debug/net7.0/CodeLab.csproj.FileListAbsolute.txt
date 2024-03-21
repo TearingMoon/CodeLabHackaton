@@ -1,0 +1,14 @@
+C:\Users\david\Proyectos\CodeLab\bin\Debug\net7.0\CodeLab.exe
+C:\Users\david\Proyectos\CodeLab\bin\Debug\net7.0\CodeLab.deps.json
+C:\Users\david\Proyectos\CodeLab\bin\Debug\net7.0\CodeLab.runtimeconfig.json
+C:\Users\david\Proyectos\CodeLab\bin\Debug\net7.0\CodeLab.dll
+C:\Users\david\Proyectos\CodeLab\bin\Debug\net7.0\CodeLab.pdb
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.AssemblyInfoInputs.cache
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.AssemblyInfo.cs
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.csproj.CoreCompileInputs.cache
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.dll
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\refint\CodeLab.dll
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.pdb
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.genruntimeconfig.cache
+C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\ref\CodeLab.dll

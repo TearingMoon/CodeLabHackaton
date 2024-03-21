@@ -26,4 +26,19 @@ public static class fileReader
 
         return new List<Route>();
     }
+
+    public static List<string> GetCityList(string fileName)
+    {
+        List<string> cities = new List<string>();
+        foreach (string line in File.ReadLines(fileName))
+        {
+            if(line != "1400")
+            {
+                string city = line;
+                cities.Add(city);
+            }
+        }
+
+        return new List<string>();
+    }
 }

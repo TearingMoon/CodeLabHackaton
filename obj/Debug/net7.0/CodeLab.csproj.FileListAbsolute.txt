@@ -12,3 +12,17 @@ C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\refint\CodeLab.dll
 C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.pdb
 C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\CodeLab.genruntimeconfig.cache
 C:\Users\david\Proyectos\CodeLab\obj\Debug\net7.0\ref\CodeLab.dll
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\bin\Debug\net7.0\CodeLab.exe
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\bin\Debug\net7.0\CodeLab.deps.json
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\bin\Debug\net7.0\CodeLab.runtimeconfig.json
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\bin\Debug\net7.0\CodeLab.dll
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\bin\Debug\net7.0\CodeLab.pdb
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\CodeLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\CodeLab.AssemblyInfoInputs.cache
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\CodeLab.AssemblyInfo.cs
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\CodeLab.csproj.CoreCompileInputs.cache
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\CodeLab.dll
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\refint\CodeLab.dll
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\CodeLab.pdb
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\CodeLab.genruntimeconfig.cache
+C:\Users\Trxxs\Documents\GitHub\CodeLabHackaton\obj\Debug\net7.0\ref\CodeLab.dll
